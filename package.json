@@ -1,0 +1,25 @@
+{
+  "name": "reduct-builder",
+  "version": "1.0.0",
+  "description": "Command line utility for instantly producing modular React/Redux component boilerplates.",
+  "main": "insertComponent.js",
+  "bin": {
+    "component": "insertComponent.js"
+  },
+  "scripts": {
+    "test": "component TestComponent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oyama87/Reduct-Builder.git"
+  },
+  "author": "Justin Taylor Goldberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oyama87/Reduct-Builder.git/issues"
+  },
+  "homepage": "https://github.com/Oyama87/Reduct-Builder.git#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
