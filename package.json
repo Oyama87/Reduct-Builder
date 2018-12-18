@@ -4,10 +4,10 @@
   "description": "Command line utility for instantly producing modular React/Redux component boilerplates.",
   "main": "insertComponent.js",
   "bin": {
-    "component": "insertComponent.js"
+    "create-component": "insertComponent.js"
   },
   "scripts": {
-    "test": "component TestComponent"
+    "test": "create-component TestComponent"
   },
   "repository": {
     "type": "git",
