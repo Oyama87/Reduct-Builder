@@ -1,5 +1,4 @@
 ## Reduct-Builder 
-___
 Installing or linking this package globally will give you access to some terminal commands
 for instantly producing React component files and folders. 
 
