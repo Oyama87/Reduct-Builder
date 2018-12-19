@@ -1,6 +1,6 @@
 {
   "name": "reduct-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Command line utility for instantly producing modular React/Redux component boilerplates.",
   "main": "insertComponent.js",
   "bin": {
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Oyama87/Reduct-Builder.git#readme",
   "dependencies": {
     "chalk": "^2.4.1"
+  },
+  "engines": {
+    "node": ">=10.12.0"
   }
 }
